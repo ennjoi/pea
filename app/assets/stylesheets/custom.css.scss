@@ -1,0 +1,34 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+// * {
+//   border: 1px solid;
+// }
+
+html, body {
+  height: 100%;
+}
+
+.navbar {
+  background: #eaeaea;
+}
+
+h1 {
+  font-family: Raleway, sans-serif;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+.container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.icon {
+  font-family: Escafina, sans-serif;
+  padding: 10px;
+}
+
